@@ -73,4 +73,4 @@ Let's write a simple "Hello, World!" program in C.
 
 <!-- I am not sure when to tell them to learn terminal I don't want to diverge too much from the main activity and to start running code because then they will start to get tired and bored. I want then to get excited as they see progress -->
 
-By following these steps, you've created, compiled, and executed your first C program. As you continue to learn C, you'll dive into more advanced topics such as variables, control structures, functions, and pointers, which will help you build more complex and powerful programs.
+By following these steps, you've created, compiled, and executed your first C program. As you continue to learn C, you'll dive into more advanced topics such as variables, control structures, functions, and pointers, which will help you build more complex and powerful programs.  
